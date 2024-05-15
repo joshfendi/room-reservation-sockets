@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/joshuafendi/Desktop/Desktop local?/USC Classes/Spring 2024/EE 450/Project/ee450_Fendi_Joshua_fendi",
+      "program": "/Users/joshuafendi/Desktop/Desktop local?/USC Classes/Spring 2024/EE 450/Project/ee450_Fendi_Joshua_fendi/build/Debug/outDebug"
+    }
+  ]
+}
